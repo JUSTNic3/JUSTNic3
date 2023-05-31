@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JUSTNic3
 - 👀 I’m interested in programming video games
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Unity and Blender
